@@ -45,7 +45,7 @@ export default function Home() {
   return (
     <main className="app-container">
       <header className="app-header">
-        <h1>Manga Manager</h1>
+        <h1>読んだことある漫画を共有</h1>
       </header>
 
       <div className="tabs">
